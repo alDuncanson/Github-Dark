@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# GitHub Dark
 
-You can use the [editor on GitHub](https://github.com/alDuncanson/Github-Dark/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> a color scheme for [iTerm2](https://iterm2.com/), based on GitHub's dark theme
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![GitHub all releases](https://img.shields.io/github/downloads/alDuncanson/Github-Dark/total)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/alDuncanson/Github-Dark)
+![GitHub Repo stars](https://img.shields.io/github/stars/alDuncanson/Github-Dark)
+![GitHub](https://img.shields.io/github/license/alDuncanson/GitHub-Dark)
 
-### Markdown
+## Screenshots
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![figlet output](https://raw.githubusercontent.com/alDuncanson/Github-Dark/main/assets/figlet.png)
+![npx colortest output](https://raw.githubusercontent.com/alDuncanson/Github-Dark/70796e6e5d009077d1a09d9d7df281f8a7007789/assets/colortest.png)
+![htop output](https://raw.githubusercontent.com/alDuncanson/Github-Dark/main/assets/htop.png)
 
-```markdown
-Syntax highlighted code block
+## Install
 
-# Header 1
-## Header 2
-### Header 3
+### Import
 
-- Bulleted
-- List
+##### Automatic
 
-1. Numbered
-2. List
+1. Right-click and save the file [`GitHub Dark.itermcolors`](https://raw.githubusercontent.com/alDuncanson/Github-Dark/main/GitHub%20Dark.itermcolors)
+2. Click the downloaded file, and you should see a message similar to `The color scheme was imported and added to presets.`
 
-**Bold** and _Italic_ and `Code` text
+##### Manual
 
-[Link](url) and ![Image](src)
-```
+1. Right-click and save the file [`GitHub Dark.itermcolors`](https://raw.githubusercontent.com/alDuncanson/Github-Dark/main/GitHub%20Dark.itermcolors)
+2. Open [iTerm2](https://iterm2.com/) and open `Preferences`
+3. Click the `Profiles` tab, then the `Colors` tab
+4. Select the `Color Presets...` dropdown and click `import...`, then select the `GitHub Dark.itermcolors` file
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Use
 
-### Jekyll Themes
+2. Open [iTerm2](https://iterm2.com/) and open `Preferences`
+3. Click the `Profiles` tab, then the `Colors` tab
+4. Select the `Color Presets...`, then select the `GitHub Dark.itermcolors` file
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alDuncanson/Github-Dark/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Other Info
 
-### Support or Contact
+- Shell: [Zsh](https://www.zsh.org/)
+- Zsh Theme: [awesomepanda](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/awesomepanda.zsh-theme)
+- Font: [MonoLisa](https://www.monolisa.dev/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+<a href='https://www.buymeacoffee.com/alduncanson' target='_blank'><img src='https://cdn.buymeacoffee.com/buttons/default-orange.png' alt='Buy Me A Coffee' height='34' width='144'></a>
