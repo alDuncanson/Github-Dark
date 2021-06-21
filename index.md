@@ -1,7 +1,3 @@
-# GitHub Dark
-
-> a color scheme for [iTerm2](https://iterm2.com/), based on GitHub's dark theme
-
 ![GitHub all releases](https://img.shields.io/github/downloads/alDuncanson/Github-Dark/total)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/alDuncanson/Github-Dark)
 ![GitHub Repo stars](https://img.shields.io/github/stars/alDuncanson/Github-Dark)
