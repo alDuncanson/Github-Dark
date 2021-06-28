@@ -1,4 +1,3 @@
-![GitHub all releases](https://img.shields.io/github/downloads/alDuncanson/Github-Dark/total)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/alDuncanson/Github-Dark)
 ![GitHub Repo stars](https://img.shields.io/github/stars/alDuncanson/Github-Dark)
 ![GitHub](https://img.shields.io/github/license/alDuncanson/GitHub-Dark)
